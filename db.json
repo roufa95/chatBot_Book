@@ -1,0 +1,23 @@
+[
+    {
+      lat: 51.673858,
+      lng: 7.815982,
+      label: 'A',
+      statue:'1',
+      draggable: false
+    },
+    {
+      lat: 51.373858,
+      lng: 7.215982,
+      label: 'B',
+      statue:'2',
+      draggable: false
+    },
+    {
+      lat: 51.723858,
+      lng: 7.895982,
+      label: 'C',
+      statue:'3',
+      draggable: false
+    }
+  ]
